@@ -1,0 +1,24 @@
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary Clinic.Winform.csprojAssemblyReference.cache
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary_Clinic.Winform.Controls.EmployeeControl.resources
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary_Clinic.Winform.Controls.PatientControl.resources
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary_Clinic.Winform.Forms.EmployeeInfoForm.resources
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary_Clinic.Winform.Forms.PatientInfoForm.resources
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary_Clinic.Winform.Forms.TreatmentRegistForm.resources
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary_Clinic.Winform.MainForm.resources
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary_Clinic.Winform.Controls.TreatmentControl.resources
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary_Clinic.Winform.Properties.Resources.resources
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary Clinic.Winform.csproj.GenerateResource.cache
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary Clinic.Winform.csproj.CoreCompileInputs.cache
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\Veterinary Clinic.Winform.exe.config
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\Veterinary Clinic.Winform.exe
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\Veterinary Clinic.Winform.pdb
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\EntityFramework.dll
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\EntityFramework.SqlServer.dll
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\Veterinary Clinic.Library.dll
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\Veterinary Clinic.Library.pdb
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\Veterinary Clinic.Library.dll.config
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\EntityFramework.xml
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\bin\Debug\EntityFramework.SqlServer.xml
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary Clinic.Winform.csproj.CopyComplete
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary Clinic.Winform.exe
+D:\share\W\Mini Project III\권세익, 이강산, 이우수, 임대섭, 정선아\Veterinary Clinic (2)\Veterinary Clinic.Winform\obj\Debug\Veterinary Clinic.Winform.pdb
